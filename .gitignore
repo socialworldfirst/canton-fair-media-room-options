@@ -1,2 +1,7 @@
 __pycache__/
 .DS_Store
+venues.py
+build.py
+fetch_images.py
+fixup.py
+images.json
